@@ -1,0 +1,14 @@
+﻿Build started 11.05.2016 16:24:49.
+     1>Project "C:\Users\BurakCan\Documents\Visual Studio 2013\Projects\Detection\Detection\Detection.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv11\opencv\build\include\opencv2 /IC:\opencv11\opencv\build\include\opencv /IC:\opencv11\opencv\build\include /Zi /nologo /W3 /WX- /sdl /Od /D "WIN32" /D _DEBUG /D _CONSOLE /D "_LIB" /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\Detection.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Detection.cpp
+         Detection.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BurakCan\Documents\Visual Studio 2013\Projects\Detection\x64\Debug\Detection.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv11\opencv\build\x64\vc12\lib opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_ml2411d.lib opencv_nonfree2411d.lib opencv_objdetect2411d.lib opencv_photo2411d.lib opencv_stitching2411d.lib opencv_ts2411d.lib opencv_video2411d.lib opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\BurakCan\Documents\Visual Studio 2013\Projects\Detection\x64\Debug\Detection.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\BurakCan\Documents\Visual Studio 2013\Projects\Detection\x64\Debug\Detection.lib" /MACHINE:X64 x64\Debug\Detection.obj
+         x64\Debug\stdafx.obj
+         Detection.vcxproj -> C:\Users\BurakCan\Documents\Visual Studio 2013\Projects\Detection\x64\Debug\Detection.exe
+     1>Done Building Project "C:\Users\BurakCan\Documents\Visual Studio 2013\Projects\Detection\Detection\Detection.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
